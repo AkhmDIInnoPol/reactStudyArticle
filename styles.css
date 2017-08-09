@@ -1,0 +1,16 @@
+.labels{
+  width: 10%;
+  display: inline-block;
+  margin-right: 5%;
+  text-align: right;
+}
+.inputs{
+  width: 200px;
+  text-align: center;
+  align-items: flex-end;
+}
+
+.filds{
+  display: inline-block;
+  width: 20%;
+}
